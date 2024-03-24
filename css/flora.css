@@ -1,0 +1,62 @@
+body{
+	margin: 0;
+	font-family: 'Albert Sans', Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+header{
+	background-color: palevioletred;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1, h2{
+	font-family: 'Sacramento', cursive;
+}
+
+header h1{
+	color: white;
+	font-family: Sacramento, Helvetica, Arial, sans-serif;
+	font-size: 70px;
+}
+
+header img{
+	border-radius: 200px;
+    width: 300px;
+    border: 20px solid white;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 40px;
+	color: palevioletred;
+	margin: 50px 0 20px;
+}
+
+footer{
+	background-color: palevioletred;
+	text-align: center;
+	color: white;
+	padding: 50px;
+}
+
+footer p{
+	margin: 0;
+}
+
+p.caption{
+	font-size: 16px;
+	font-style: italic;
+	margin-top: 0;
+}
